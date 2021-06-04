@@ -1,0 +1,21 @@
+{
+  "name": "rudeysh-flags",
+  "version": "1.0.0",
+  "description": "Lots and lots of flags",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudeySH/flags.git"
+  },
+  "author": "RudeySH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudeySH/flags/issues"
+  },
+  "homepage": "https://github.com/RudeySH/flags#readme",
+  "dependencies": {
+    "svgo": "^2.3.0"
+  }
+}
