@@ -1,0 +1,4574 @@
+[
+  {
+    "code": "ac",
+    "name": "Ascension Island",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ad",
+    "name": "Andorra",
+    "regions": [],
+    "aspect_ratio": 1.4285714285714286
+  },
+  {
+    "code": "ae",
+    "name": "United Arab Emirates",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "af",
+    "name": "Afghanistan",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ai",
+    "name": "Anguilla",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "al",
+    "name": "Albania",
+    "regions": [],
+    "aspect_ratio": 1.4
+  },
+  {
+    "code": "am",
+    "name": "Armenia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ao",
+    "name": "Angola",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "aq",
+    "name": "Antarctica",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "regions": [
+      {
+        "code": "c",
+        "sub_regions": [],
+        "aspect_ratio": 1.544392523364486
+      }
+    ],
+    "aspect_ratio": 1.6
+  },
+  {
+    "code": "as",
+    "name": "American Samoa",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "at",
+    "name": "Austria",
+    "regions": [
+      {
+        "code": "1",
+        "sub_regions": [],
+        "aspect_ratio": 1.4469453376205788
+      },
+      {
+        "code": "2",
+        "sub_regions": [],
+        "aspect_ratio": 1.5151515151515151
+      },
+      {
+        "code": "3",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "4",
+        "sub_regions": [],
+        "aspect_ratio": 1.5151515151515151
+      },
+      {
+        "code": "5",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "6",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "7",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "8",
+        "sub_regions": [],
+        "aspect_ratio": 1.500616522811344
+      },
+      {
+        "code": "9",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "au",
+    "name": "Australia",
+    "regions": [
+      {
+        "code": "act",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ct",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ns",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nsw",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nt",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ql",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "qld",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "sa",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "tas",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ts",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "vi",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "vic",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "wa",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      }
+    ],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "aw",
+    "name": "Aruba",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ax",
+    "name": "Åland Islands",
+    "regions": [],
+    "aspect_ratio": 1.5294117647058822
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "bb",
+    "name": "Barbados",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "bd",
+    "name": "Bangladesh",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "be",
+    "name": "Belgium",
+    "regions": [
+      {
+        "code": "bru",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "van",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vbr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5015015015015014
+      },
+      {
+        "code": "vlg",
+        "sub_regions": [],
+        "aspect_ratio": 1.5007974481658692
+      },
+      {
+        "code": "vli",
+        "sub_regions": [],
+        "aspect_ratio": 1.5002797985450476
+      },
+      {
+        "code": "vov",
+        "sub_regions": [],
+        "aspect_ratio": 1.6366366366366367
+      },
+      {
+        "code": "vwv",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "wal",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "wbr",
+        "sub_regions": [],
+        "aspect_ratio": 1.1299435028248588
+      },
+      {
+        "code": "wht",
+        "sub_regions": [],
+        "aspect_ratio": 1
+      },
+      {
+        "code": "wlg",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "wlx",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "wna",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.1538461538461537
+  },
+  {
+    "code": "bf",
+    "name": "Burkina Faso",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "bg",
+    "name": "Bulgaria",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "bh",
+    "name": "Bahrain",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "bi",
+    "name": "Burundi",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "bj",
+    "name": "Benin",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "bl",
+    "name": "Saint Barthélemy",
+    "regions": [],
+    "aspect_ratio": 1.4992
+  },
+  {
+    "code": "bm",
+    "name": "Bermuda",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "bn",
+    "name": "Brunei Darussalam",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia (Plurinational State of)",
+    "regions": [],
+    "aspect_ratio": 1.4666666666666666
+  },
+  {
+    "code": "bq",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "regions": [
+      {
+        "code": "bo",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sa",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "se",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "br",
+    "name": "Brazil",
+    "regions": [
+      {
+        "code": "ac",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "al",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "am",
+        "sub_regions": [],
+        "aspect_ratio": 1.4
+      },
+      {
+        "code": "ap",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "ba",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ce",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "df",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "es",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "go",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "ma",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mg",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "ms",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "mt",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "pa",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pb",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "pe",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "pi",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pr",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "rj",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "rn",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ro",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "rr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "rs",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "sc",
+        "sub_regions": [],
+        "aspect_ratio": 1.3773148148148149
+      },
+      {
+        "code": "se",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "sp",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "to",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      }
+    ],
+    "aspect_ratio": 1.4285714285714286
+  },
+  {
+    "code": "bs",
+    "name": "Bahamas",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "bt",
+    "name": "Bhutan",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "bv",
+    "name": "Bouvet Island",
+    "regions": [],
+    "aspect_ratio": 1.375
+  },
+  {
+    "code": "bw",
+    "name": "Botswana",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "by",
+    "name": "Belarus",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "bz",
+    "name": "Belize",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "regions": [
+      {
+        "code": "ab",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "bc",
+        "sub_regions": [],
+        "aspect_ratio": 1.6588235294117648
+      },
+      {
+        "code": "mb",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nb",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "nl",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ns",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nt",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nu",
+        "sub_regions": [],
+        "aspect_ratio": 1.7762096774193548
+      },
+      {
+        "code": "on",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "pe",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "qc",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sk",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "yt",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      }
+    ],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "cc",
+    "name": "Cocos (Keeling) Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "cd",
+    "name": "Congo (Democratic Republic of the)",
+    "regions": [],
+    "aspect_ratio": 1.3333333333333333
+  },
+  {
+    "code": "cf",
+    "name": "Central African Republic",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "cg",
+    "name": "Congo",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ch",
+    "name": "Switzerland",
+    "regions": [],
+    "aspect_ratio": 1
+  },
+  {
+    "code": "ci",
+    "name": "Côte d'Ivoire",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ck",
+    "name": "Cook Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "regions": [
+      {
+        "code": "ai",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "an",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ap",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ar",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "at",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "bi",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "co",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "li",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ll",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "lr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ma",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ml",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "rm",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ta",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vs",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "cm",
+    "name": "Cameroon",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "cn",
+    "name": "China",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "cu",
+    "name": "Cuba",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "cv",
+    "name": "Cabo Verde",
+    "regions": [],
+    "aspect_ratio": 1.7
+  },
+  {
+    "code": "cw",
+    "name": "Curaçao",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "cx",
+    "name": "Christmas Island",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "cy",
+    "name": "Cyprus",
+    "regions": [],
+    "aspect_ratio": 1.5277777777777777
+  },
+  {
+    "code": "cz",
+    "name": "Czech Republic",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "regions": [
+      {
+        "code": "bb",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "be",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "bw",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "by",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "hb",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "he",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "hh",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mv",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "ni",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nw",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "rp",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sh",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "sl",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "sn",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "st",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "th",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      }
+    ],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "dj",
+    "name": "Djibouti",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "dk",
+    "name": "Denmark",
+    "regions": [
+      {
+        "code": "81",
+        "sub_regions": [],
+        "aspect_ratio": 1.49929676511955
+      },
+      {
+        "code": "82",
+        "sub_regions": [],
+        "aspect_ratio": 1.49929676511955
+      },
+      {
+        "code": "83",
+        "sub_regions": [],
+        "aspect_ratio": 1.49929676511955
+      },
+      {
+        "code": "84",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "85",
+        "sub_regions": [],
+        "aspect_ratio": 1.49929676511955
+      }
+    ],
+    "aspect_ratio": 1.3214285714285714
+  },
+  {
+    "code": "dm",
+    "name": "Dominica",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "do",
+    "name": "Dominican Republic",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ee",
+    "name": "Estonia",
+    "regions": [],
+    "aspect_ratio": 1.5714285714285714
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "eh",
+    "name": "Western Sahara",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "er",
+    "name": "Eritrea",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "regions": [
+      {
+        "code": "an",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ar",
+        "sub_regions": [],
+        "aspect_ratio": 1.5015015015015014
+      },
+      {
+        "code": "as",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "cb",
+        "sub_regions": [],
+        "aspect_ratio": 1.8955223880597014
+      },
+      {
+        "code": "ce",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "cl",
+        "sub_regions": [],
+        "aspect_ratio": 1.3
+      },
+      {
+        "code": "cm",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "cn",
+        "sub_regions": [],
+        "aspect_ratio": 1.8955223880597014
+      },
+      {
+        "code": "ct",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ex",
+        "sub_regions": [],
+        "aspect_ratio": 1.8846153846153846
+      },
+      {
+        "code": "ga",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ib",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mc",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "md",
+        "sub_regions": [],
+        "aspect_ratio": 1.5714285714285714
+      },
+      {
+        "code": "ml",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nc",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pv",
+        "sub_regions": [],
+        "aspect_ratio": 1.7857142857142858
+      },
+      {
+        "code": "ri",
+        "sub_regions": [],
+        "aspect_ratio": 1.8955223880597014
+      },
+      {
+        "code": "vc",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "et",
+    "name": "Ethiopia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "eu",
+    "name": "European Union",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ez",
+    "name": "Eurozone",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "regions": [],
+    "aspect_ratio": 1.6363636363636365
+  },
+  {
+    "code": "fj",
+    "name": "Fiji",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "fk",
+    "name": "Falkland Islands (Malvinas)",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "fm",
+    "name": "Micronesia (Federated States of)",
+    "regions": [],
+    "aspect_ratio": 1.9
+  },
+  {
+    "code": "fo",
+    "name": "Faroe Islands",
+    "regions": [],
+    "aspect_ratio": 1.375
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "regions": [
+      {
+        "code": "02",
+        "sub_regions": [],
+        "aspect_ratio": 1.5113065326633166
+      },
+      {
+        "code": "04",
+        "sub_regions": [],
+        "aspect_ratio": 1.5094102885821832
+      },
+      {
+        "code": "06",
+        "sub_regions": [],
+        "aspect_ratio": 1.5763888888888888
+      },
+      {
+        "code": "07",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "08",
+        "sub_regions": [],
+        "aspect_ratio": 1.5113065326633166
+      },
+      {
+        "code": "10",
+        "sub_regions": [],
+        "aspect_ratio": 1.5113065326633166
+      },
+      {
+        "code": "11",
+        "sub_regions": [],
+        "aspect_ratio": 1.5113065326633166
+      },
+      {
+        "code": "12",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "75",
+        "sub_regions": [],
+        "aspect_ratio": 1
+      },
+      {
+        "code": "a",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "b",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "bl",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "c",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "d",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "e",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "f",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "g",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "gf",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "gp",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "h",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "i",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "j",
+        "sub_regions": [],
+        "aspect_ratio": 1.6790697674418604
+      },
+      {
+        "code": "k",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "l",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "m",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "mq",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "n",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nc",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "o",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "p",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "pf",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pm",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "q",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "r",
+        "sub_regions": [],
+        "aspect_ratio": 1.662037037037037
+      },
+      {
+        "code": "re",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "s",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "t",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "tf",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "u",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "v",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "wf",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "yt",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ga",
+    "name": "Gabon",
+    "regions": [],
+    "aspect_ratio": 1.3333333333333333
+  },
+  {
+    "code": "gb",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "regions": [
+      {
+        "code": "bkm",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "cam",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "cma",
+        "sub_regions": [],
+        "aspect_ratio": 1.6655052264808363
+      },
+      {
+        "code": "dby",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "dev",
+        "sub_regions": [],
+        "aspect_ratio": 1.72
+      },
+      {
+        "code": "dor",
+        "sub_regions": [],
+        "aspect_ratio": 1.669291338582677
+      },
+      {
+        "code": "eng",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "ess",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "esx",
+        "sub_regions": [],
+        "aspect_ratio": 1.65
+      },
+      {
+        "code": "gls",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ham",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "hrt",
+        "sub_regions": [],
+        "aspect_ratio": 1.6542597187758479
+      },
+      {
+        "code": "ken",
+        "sub_regions": [],
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "code": "lan",
+        "sub_regions": [],
+        "aspect_ratio": 1.0454545454545454
+      },
+      {
+        "code": "lec",
+        "sub_regions": [],
+        "aspect_ratio": 1.6779661016949152
+      },
+      {
+        "code": "lin",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "nfk",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "nir",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "nth",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "ntt",
+        "sub_regions": [],
+        "aspect_ratio": 1.8055363321799307
+      },
+      {
+        "code": "nyk",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "oxf",
+        "sub_regions": [],
+        "aspect_ratio": 1.6664785553047403
+      },
+      {
+        "code": "sct",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "sfk",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "som",
+        "sub_regions": [],
+        "aspect_ratio": 1.6685552407932012
+      },
+      {
+        "code": "sry",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "sts",
+        "sub_regions": [],
+        "aspect_ratio": 1.669811320754717
+      },
+      {
+        "code": "war",
+        "sub_regions": [],
+        "aspect_ratio": 1.25
+      },
+      {
+        "code": "wls",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "wor",
+        "sub_regions": [],
+        "aspect_ratio": 1.6632016632016633
+      },
+      {
+        "code": "wsx",
+        "sub_regions": [],
+        "aspect_ratio": 1.65
+      }
+    ],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "gd",
+    "name": "Grenada",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "ge",
+    "name": "Georgia",
+    "regions": [
+      {
+        "code": "ab",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "aj",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "tb",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gf",
+    "name": "French Guiana",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gg",
+    "name": "Guernsey",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gh",
+    "name": "Ghana",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gi",
+    "name": "Gibraltar",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "gl",
+    "name": "Greenland",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gm",
+    "name": "Gambia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gn",
+    "name": "Guinea",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gp",
+    "name": "Guadeloupe",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gr",
+    "name": "Greece",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "gs",
+    "name": "South Georgia and the South Sandwich Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "regions": [],
+    "aspect_ratio": 1.6
+  },
+  {
+    "code": "gu",
+    "name": "Guam",
+    "regions": [],
+    "aspect_ratio": 1.8636363636363635
+  },
+  {
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "gy",
+    "name": "Guyana",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "hk",
+    "name": "Hong Kong",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "hm",
+    "name": "Heard Island and McDonald Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "hr",
+    "name": "Croatia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ht",
+    "name": "Haiti",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "hu",
+    "name": "Hungary",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ic",
+    "name": "Canary Islands",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "id",
+    "name": "Indonesia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ie",
+    "name": "Ireland",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "il",
+    "name": "Israel",
+    "regions": [],
+    "aspect_ratio": 1.375
+  },
+  {
+    "code": "im",
+    "name": "Isle of Man",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "in",
+    "name": "India",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "io",
+    "name": "British Indian Ocean Territory",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "iq",
+    "name": "Iraq",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ir",
+    "name": "Iran (Islamic Republic of)",
+    "regions": [],
+    "aspect_ratio": 1.75
+  },
+  {
+    "code": "is",
+    "name": "Iceland",
+    "regions": [],
+    "aspect_ratio": 1.3888888888888888
+  },
+  {
+    "code": "it",
+    "name": "Italy",
+    "regions": [
+      {
+        "code": "21",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "23",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "25",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "32",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "34",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "36",
+        "sub_regions": [],
+        "aspect_ratio": 1.4895104895104896
+      },
+      {
+        "code": "42",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "45",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "52",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "55",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "57",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "62",
+        "sub_regions": [],
+        "aspect_ratio": 1.4968210717529518
+      },
+      {
+        "code": "65",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "67",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "72",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "75",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "77",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "78",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "82",
+        "sub_regions": [],
+        "aspect_ratio": 1.509433962264151
+      },
+      {
+        "code": "88",
+        "sub_regions": [],
+        "aspect_ratio": 1.4916666666666667
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "je",
+    "name": "Jersey",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "jm",
+    "name": "Jamaica",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "jo",
+    "name": "Jordan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "regions": [
+      {
+        "code": "01",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "02",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "03",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "04",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "05",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "06",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "07",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "08",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "09",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "10",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "11",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "12",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "13",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "14",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "15",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "16",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "17",
+        "sub_regions": [],
+        "aspect_ratio": 1.4193548387096775
+      },
+      {
+        "code": "18",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "19",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "20",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "21",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "22",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "23",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "24",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "25",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "26",
+        "sub_regions": [],
+        "aspect_ratio": 1.4
+      },
+      {
+        "code": "27",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "28",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "29",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "30",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "31",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "32",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "33",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "34",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "35",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "36",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      },
+      {
+        "code": "37",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "38",
+        "sub_regions": [],
+        "aspect_ratio": 1.5037593984962405
+      },
+      {
+        "code": "39",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "40",
+        "sub_regions": [],
+        "aspect_ratio": 1.4296875
+      },
+      {
+        "code": "41",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "42",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "43",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "44",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "45",
+        "sub_regions": [],
+        "aspect_ratio": 1.4
+      },
+      {
+        "code": "46",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "47",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ke",
+    "name": "Kenya",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "kh",
+    "name": "Cambodia",
+    "regions": [],
+    "aspect_ratio": 1.5625
+  },
+  {
+    "code": "ki",
+    "name": "Kiribati",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "km",
+    "name": "Comoros",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "kp",
+    "name": "Korea (Democratic People's Republic of)",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "kr",
+    "name": "Korea (Republic of)",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "kw",
+    "name": "Kuwait",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ky",
+    "name": "Cayman Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "kz",
+    "name": "Kazakhstan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "la",
+    "name": "Lao People's Democratic Republic",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "lb",
+    "name": "Lebanon",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "lc",
+    "name": "Saint Lucia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "li",
+    "name": "Liechtenstein",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "lk",
+    "name": "Sri Lanka",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "lr",
+    "name": "Liberia",
+    "regions": [],
+    "aspect_ratio": 1.9
+  },
+  {
+    "code": "ls",
+    "name": "Lesotho",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "lt",
+    "name": "Lithuania",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "lu",
+    "name": "Luxembourg",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "lv",
+    "name": "Latvia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ly",
+    "name": "Libya",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ma",
+    "name": "Morocco",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mc",
+    "name": "Monaco",
+    "regions": [],
+    "aspect_ratio": 1.25
+  },
+  {
+    "code": "md",
+    "name": "Moldova (Republic of)",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "me",
+    "name": "Montenegro",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "mf",
+    "name": "Saint Martin (French part)",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mg",
+    "name": "Madagascar",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mh",
+    "name": "Marshall Islands",
+    "regions": [],
+    "aspect_ratio": 1.9
+  },
+  {
+    "code": "mk",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ml",
+    "name": "Mali",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mm",
+    "name": "Myanmar",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mn",
+    "name": "Mongolia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "mo",
+    "name": "Macao",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mp",
+    "name": "Northern Mariana Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "mq",
+    "name": "Martinique",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mr",
+    "name": "Mauritania",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ms",
+    "name": "Montserrat",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "mt",
+    "name": "Malta",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mu",
+    "name": "Mauritius",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mv",
+    "name": "Maldives",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mw",
+    "name": "Malawi",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "mx",
+    "name": "Mexico",
+    "regions": [
+      {
+        "code": "agu",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "bcn",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "bcs",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "cam",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "chh",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "chp",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "cmx",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "coa",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "col",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "dfe",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "dur",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "gro",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "gua",
+        "sub_regions": [],
+        "aspect_ratio": 1.750877192982456
+      },
+      {
+        "code": "hid",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "jal",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "mex",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "mic",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "mor",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "nay",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "nle",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "oax",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "pue",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "que",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "roo",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "sin",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "slp",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "son",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "tab",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "tam",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "tla",
+        "sub_regions": [],
+        "aspect_ratio": 1.6352705410821644
+      },
+      {
+        "code": "ver",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      },
+      {
+        "code": "yuc",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "zac",
+        "sub_regions": [],
+        "aspect_ratio": 1.75
+      }
+    ],
+    "aspect_ratio": 1.75
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "mz",
+    "name": "Mozambique",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "na",
+    "name": "Namibia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "nc",
+    "name": "New Caledonia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ne",
+    "name": "Niger",
+    "regions": [],
+    "aspect_ratio": 1.1666666666666667
+  },
+  {
+    "code": "nf",
+    "name": "Norfolk Island",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ng",
+    "name": "Nigeria",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "nl",
+    "name": "Netherlands",
+    "regions": [
+      {
+        "code": "aw",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "bq1",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "bq2",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "bq3",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "cw",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "dr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "fl",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "fr",
+        "sub_regions": [],
+        "aspect_ratio": 1.4444444444444444
+      },
+      {
+        "code": "ge",
+        "sub_regions": [],
+        "aspect_ratio": 1.4444444444444444
+      },
+      {
+        "code": "gr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "li",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nb",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nh",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ov",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sx",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ut",
+        "sub_regions": [],
+        "aspect_ratio": 1.505050505050505
+      },
+      {
+        "code": "ze",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "zh",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "regions": [],
+    "aspect_ratio": 1.375
+  },
+  {
+    "code": "np",
+    "name": "Nepal",
+    "regions": [],
+    "aspect_ratio": 0.8203389830508474
+  },
+  {
+    "code": "nr",
+    "name": "Nauru",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "nu",
+    "name": "Niue",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "nz",
+    "name": "New Zealand",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "om",
+    "name": "Oman",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "pa",
+    "name": "Panama",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pe",
+    "name": "Peru",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pf",
+    "name": "French Polynesia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "regions": [],
+    "aspect_ratio": 1.3333333333333333
+  },
+  {
+    "code": "ph",
+    "name": "Philippines",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "pk",
+    "name": "Pakistan",
+    "regions": [
+      {
+        "code": "ba",
+        "sub_regions": [],
+        "aspect_ratio": 1.5004344048653344
+      },
+      {
+        "code": "gb",
+        "sub_regions": [],
+        "aspect_ratio": 1.9171974522292994
+      },
+      {
+        "code": "jk",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kp",
+        "sub_regions": [],
+        "aspect_ratio": 1.5018939393939394
+      },
+      {
+        "code": "pb",
+        "sub_regions": [],
+        "aspect_ratio": 1.5018939393939394
+      },
+      {
+        "code": "sd",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ta",
+        "sub_regions": [],
+        "aspect_ratio": 1.5018939393939394
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pl",
+    "name": "Poland",
+    "regions": [
+      {
+        "code": "ds",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "kp",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "lb",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "ld",
+        "sub_regions": [],
+        "aspect_ratio": 2.1052631578947367
+      },
+      {
+        "code": "lu",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "ma",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "mz",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "op",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "pd",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "pk",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "pm",
+        "sub_regions": [],
+        "aspect_ratio": 1.6025641025641026
+      },
+      {
+        "code": "sk",
+        "sub_regions": [],
+        "aspect_ratio": 1.4010507880910683
+      },
+      {
+        "code": "sl",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "wn",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "wp",
+        "sub_regions": [],
+        "aspect_ratio": 2.0779220779220777
+      },
+      {
+        "code": "zp",
+        "sub_regions": [],
+        "aspect_ratio": 1.5890410958904109
+      }
+    ],
+    "aspect_ratio": 1.6
+  },
+  {
+    "code": "pm",
+    "name": "Saint Pierre and Miquelon",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pn",
+    "name": "Pitcairn",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "pr",
+    "name": "Puerto Rico",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ps",
+    "name": "Palestine, State of",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "pt",
+    "name": "Portugal",
+    "regions": [
+      {
+        "code": "20",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "30",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "pw",
+    "name": "Palau",
+    "regions": [],
+    "aspect_ratio": 1.6
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "regions": [],
+    "aspect_ratio": 1.8181818181818181
+  },
+  {
+    "code": "qa",
+    "name": "Qatar",
+    "regions": [],
+    "aspect_ratio": 2.5454545454545454
+  },
+  {
+    "code": "re",
+    "name": "Réunion",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ro",
+    "name": "Romania",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "rs",
+    "name": "Serbia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ru",
+    "name": "Russian Federation",
+    "regions": [
+      {
+        "code": "ad",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "agb",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "al",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "alt",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "amu",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ark",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ast",
+        "sub_regions": [],
+        "aspect_ratio": 1.4723707664884136
+      },
+      {
+        "code": "ba",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "bel",
+        "sub_regions": [],
+        "aspect_ratio": 1.4901315789473684
+      },
+      {
+        "code": "bry",
+        "sub_regions": [],
+        "aspect_ratio": 1.499267935578331
+      },
+      {
+        "code": "bu",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ce",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "che",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "chi",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "chu",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "cu",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "da",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "eve",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "in",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "irk",
+        "sub_regions": [],
+        "aspect_ratio": 1.520912547528517
+      },
+      {
+        "code": "iva",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kam",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kb",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kc",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "kda",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kem",
+        "sub_regions": [],
+        "aspect_ratio": 1.5018773466833542
+      },
+      {
+        "code": "kgd",
+        "sub_regions": [],
+        "aspect_ratio": 1.491304347826087
+      },
+      {
+        "code": "kgn",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "kha",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "khm",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "kir",
+        "sub_regions": [],
+        "aspect_ratio": 1.5772727272727274
+      },
+      {
+        "code": "kk",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "kl",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "klu",
+        "sub_regions": [],
+        "aspect_ratio": 1.5111524163568772
+      },
+      {
+        "code": "ko",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kop",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kor",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kos",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "krs",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "kya",
+        "sub_regions": [],
+        "aspect_ratio": 1.4970588235294118
+      },
+      {
+        "code": "len",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "lip",
+        "sub_regions": [],
+        "aspect_ratio": 1.5025
+      },
+      {
+        "code": "mag",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "me",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mo",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mos",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mow",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mur",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nen",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ngr",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "niz",
+        "sub_regions": [],
+        "aspect_ratio": 1.498489425981873
+      },
+      {
+        "code": "nvs",
+        "sub_regions": [],
+        "aspect_ratio": 1.4983333333333333
+      },
+      {
+        "code": "oms",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ore",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "orl",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "per",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pnz",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "pri",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "psk",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ros",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "rya",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sa",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "sak",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sam",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sar",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "se",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "smo",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "spe",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sta",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sve",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ta",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "tam",
+        "sub_regions": [],
+        "aspect_ratio": 1.5058430717863105
+      },
+      {
+        "code": "tay",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "tom",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "tul",
+        "sub_regions": [],
+        "aspect_ratio": 1.5015408320493067
+      },
+      {
+        "code": "tve",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ty",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "tyu",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ud",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "uly",
+        "sub_regions": [],
+        "aspect_ratio": 1.5009380863039399
+      },
+      {
+        "code": "uob",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vgg",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vla",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vlg",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vor",
+        "sub_regions": [],
+        "aspect_ratio": 1.5009380863039399
+      },
+      {
+        "code": "yan",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "yar",
+        "sub_regions": [],
+        "aspect_ratio": 1.5009416195856873
+      },
+      {
+        "code": "yev",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "zab",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "rw",
+    "name": "Rwanda",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sb",
+    "name": "Solomon Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "sc",
+    "name": "Seychelles",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "sd",
+    "name": "Sudan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "se",
+    "name": "Sweden",
+    "regions": [],
+    "aspect_ratio": 1.6
+  },
+  {
+    "code": "sg",
+    "name": "Singapore",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sh",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "regions": [
+      {
+        "code": "ac",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "hl",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ta",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      }
+    ],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "si",
+    "name": "Slovenia",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "sj",
+    "name": "Svalbard and Jan Mayen",
+    "regions": [],
+    "aspect_ratio": 1.375
+  },
+  {
+    "code": "sk",
+    "name": "Slovakia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sl",
+    "name": "Sierra Leone",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sm",
+    "name": "San Marino",
+    "regions": [],
+    "aspect_ratio": 1.3333333333333333
+  },
+  {
+    "code": "sn",
+    "name": "Senegal",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "so",
+    "name": "Somalia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sr",
+    "name": "Suriname",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ss",
+    "name": "South Sudan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "st",
+    "name": "Sao Tome and Principe",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "su",
+    "name": "USSR",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "regions": [],
+    "aspect_ratio": 1.7733333333333334
+  },
+  {
+    "code": "sx",
+    "name": "Sint Maarten (Dutch part)",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sy",
+    "name": "Syrian Arab Republic",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "sz",
+    "name": "Swaziland",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ta",
+    "name": "Tristan da Cunha",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tc",
+    "name": "Turks and Caicos Islands",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "td",
+    "name": "Chad",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tf",
+    "name": "French Southern Territories",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tg",
+    "name": "Togo",
+    "regions": [],
+    "aspect_ratio": 1.618
+  },
+  {
+    "code": "th",
+    "name": "Thailand",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tj",
+    "name": "Tajikistan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tk",
+    "name": "Tokelau",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tl",
+    "name": "Timor-Leste",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tm",
+    "name": "Turkmenistan",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "to",
+    "name": "Tonga",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tr",
+    "name": "Turkey",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "tv",
+    "name": "Tuvalu",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "tw",
+    "name": "Taiwan",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "tz",
+    "name": "Tanzania, United Republic of",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ua",
+    "name": "Ukraine",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ug",
+    "name": "Uganda",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "uk",
+    "name": "United Kingdom",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "um",
+    "name": "United States Minor Outlying Islands",
+    "regions": [
+      {
+        "code": "67",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "71",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "79",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "95",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      }
+    ],
+    "aspect_ratio": 1.9
+  },
+  {
+    "code": "un",
+    "name": "United Nations",
+    "regions": [],
+    "aspect_ratio": 1.501466275659824
+  },
+  {
+    "code": "unknown",
+    "name": "Unknown",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "us",
+    "name": "United States of America",
+    "regions": [
+      {
+        "code": "ak",
+        "sub_regions": [
+          {
+            "code": "anchorage",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "juneau",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 1.416
+      },
+      {
+        "code": "al",
+        "sub_regions": [
+          {
+            "code": "birmingham",
+            "aspect_ratio": 1.9002375296912113
+          },
+          {
+            "code": "montgomery",
+            "aspect_ratio": 1.5009380863039399
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ar",
+        "sub_regions": [
+          {
+            "code": "little_rock",
+            "aspect_ratio": 1.6088794926004228
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "as",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "az",
+        "sub_regions": [
+          {
+            "code": "mesa",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ca",
+        "sub_regions": [
+          {
+            "code": "chula_vista",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "coronado",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "cupertino",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "downey",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "escondido",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "fresno",
+            "aspect_ratio": 1.3
+          },
+          {
+            "code": "huntington_beach",
+            "aspect_ratio": 1.6415384615384616
+          },
+          {
+            "code": "los_angeles",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "monterey",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "morgan_hill",
+            "aspect_ratio": 1.7254901960784315
+          },
+          {
+            "code": "oakland",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "riverside",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "sacramento",
+            "aspect_ratio": 1.8
+          },
+          {
+            "code": "san_diego",
+            "aspect_ratio": 1.66625
+          },
+          {
+            "code": "san_francisco",
+            "aspect_ratio": 1.501466275659824
+          },
+          {
+            "code": "san_luis_obispo",
+            "aspect_ratio": 1.5950155763239875
+          },
+          {
+            "code": "santa_ana",
+            "aspect_ratio": 1.6690140845070423
+          },
+          {
+            "code": "santa_barbara",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "woodland",
+            "aspect_ratio": 1.3333333333333333
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "co",
+        "sub_regions": [
+          {
+            "code": "colorado_springs",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "denver",
+            "aspect_ratio": 1.675977653631285
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ct",
+        "sub_regions": [],
+        "aspect_ratio": 1.2941176470588236
+      },
+      {
+        "code": "dc",
+        "sub_regions": [
+          {
+            "code": "washington",
+            "aspect_ratio": 2
+          }
+        ],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "de",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "fl",
+        "sub_regions": [
+          {
+            "code": "jacksonville",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "miami",
+            "aspect_ratio": 1.672
+          },
+          {
+            "code": "tampa",
+            "aspect_ratio": 1.771799628942486
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "fm",
+        "sub_regions": [],
+        "aspect_ratio": 1.9
+      },
+      {
+        "code": "ga",
+        "sub_regions": [
+          {
+            "code": "atlanta",
+            "aspect_ratio": 1.671270718232044
+          }
+        ],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "gu",
+        "sub_regions": [],
+        "aspect_ratio": 1.8636363636363635
+      },
+      {
+        "code": "hi",
+        "sub_regions": [
+          {
+            "code": "honolulu",
+            "aspect_ratio": 1.501466275659824
+          }
+        ],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ia",
+        "sub_regions": [
+          {
+            "code": "des_moines",
+            "aspect_ratio": 1.9287833827893175
+          }
+        ],
+        "aspect_ratio": 1.4596949891067539
+      },
+      {
+        "code": "id",
+        "sub_regions": [],
+        "aspect_ratio": 1.2692307692307692
+      },
+      {
+        "code": "il",
+        "sub_regions": [
+          {
+            "code": "chicago",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "springfield",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.6928104575163399
+      },
+      {
+        "code": "in",
+        "sub_regions": [
+          {
+            "code": "evansville",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "fort_wayne",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "indianapolis",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "lafayette",
+            "aspect_ratio": 1.6677740863787376
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ks",
+        "sub_regions": [
+          {
+            "code": "wichita",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "ky",
+        "sub_regions": [],
+        "aspect_ratio": 1.9
+      },
+      {
+        "code": "la",
+        "sub_regions": [
+          {
+            "code": "baton_rouge",
+            "aspect_ratio": 1.643835616438356
+          },
+          {
+            "code": "new_orleans",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.5714285714285714
+      },
+      {
+        "code": "ma",
+        "sub_regions": [
+          {
+            "code": "boston",
+            "aspect_ratio": 1.4285714285714286
+          },
+          {
+            "code": "bridgewater",
+            "aspect_ratio": 1.5386138613861386
+          },
+          {
+            "code": "taunton",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "worcester",
+            "aspect_ratio": 1.8796542553191489
+          }
+        ],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "md",
+        "sub_regions": [
+          {
+            "code": "baltimore",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "greenbelt",
+            "aspect_ratio": 1.4976958525345623
+          },
+          {
+            "code": "ocean_city",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "rockville",
+            "aspect_ratio": 1.4976958525345623
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "me",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mh",
+        "sub_regions": [],
+        "aspect_ratio": 1.9
+      },
+      {
+        "code": "mi",
+        "sub_regions": [],
+        "aspect_ratio": 1.49890590809628
+      },
+      {
+        "code": "mn",
+        "sub_regions": [
+          {
+            "code": "brooklyn_park",
+            "aspect_ratio": 2
+          },
+          {
+            "code": "eagan",
+            "aspect_ratio": 1.6470588235294117
+          },
+          {
+            "code": "little_canada",
+            "aspect_ratio": 1.6
+          },
+          {
+            "code": "minneapolis",
+            "aspect_ratio": 1.595
+          },
+          {
+            "code": "prior_lake",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "rochester",
+            "aspect_ratio": 1.3333333333333333
+          },
+          {
+            "code": "st_paul",
+            "aspect_ratio": 1.3347022587268993
+          }
+        ],
+        "aspect_ratio": 1.5723270440251573
+      },
+      {
+        "code": "mo",
+        "sub_regions": [
+          {
+            "code": "jefferson_city",
+            "aspect_ratio": 1.3
+          },
+          {
+            "code": "st_louis",
+            "aspect_ratio": 1.5065913370998116
+          }
+        ],
+        "aspect_ratio": 1.7142857142857142
+      },
+      {
+        "code": "mp",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "ms",
+        "sub_regions": [
+          {
+            "code": "jackson",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "mt",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nc",
+        "sub_regions": [
+          {
+            "code": "durham",
+            "aspect_ratio": 0.8064516129032258
+          },
+          {
+            "code": "raleigh",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nd",
+        "sub_regions": [],
+        "aspect_ratio": 1.2777777777777777
+      },
+      {
+        "code": "ne",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "nh",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nj",
+        "sub_regions": [
+          {
+            "code": "trenton",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nm",
+        "sub_regions": [
+          {
+            "code": "albuquerque",
+            "aspect_ratio": 1.702127659574468
+          },
+          {
+            "code": "roswell",
+            "aspect_ratio": 1.3416149068322982
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "nv",
+        "sub_regions": [
+          {
+            "code": "las_vegas",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "reno",
+            "aspect_ratio": 1.5009380863039399
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "ny",
+        "sub_regions": [
+          {
+            "code": "albany",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "buffalo",
+            "aspect_ratio": 1.6
+          },
+          {
+            "code": "cumberland_head",
+            "aspect_ratio": 1.7632508833922262
+          },
+          {
+            "code": "new_york",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "washington",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "yonkers",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "oh",
+        "sub_regions": [
+          {
+            "code": "cincinnati",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "cleveland",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "columbus",
+            "aspect_ratio": 1.5027932960893855
+          },
+          {
+            "code": "germantown",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "pee_pee",
+            "aspect_ratio": 1.5027777777777778
+          }
+        ],
+        "aspect_ratio": 1.625
+      },
+      {
+        "code": "ok",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "or",
+        "sub_regions": [
+          {
+            "code": "portland",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "pa",
+        "sub_regions": [
+          {
+            "code": "easton",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "erie",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "lancaster",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "philadelphia",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "pittsburgh",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pr",
+        "sub_regions": [
+          {
+            "code": "san_juan",
+            "aspect_ratio": 1.5
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "pw",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "ri",
+        "sub_regions": [],
+        "aspect_ratio": 1.0705645161290323
+      },
+      {
+        "code": "sc",
+        "sub_regions": [
+          {
+            "code": "charleston",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "sd",
+        "sub_regions": [],
+        "aspect_ratio": 1.6
+      },
+      {
+        "code": "tn",
+        "sub_regions": [
+          {
+            "code": "chattanooga",
+            "aspect_ratio": 1.6695652173913043
+          },
+          {
+            "code": "memphis",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "tx",
+        "sub_regions": [
+          {
+            "code": "benbrook",
+            "aspect_ratio": 1.4962593516209477
+          },
+          {
+            "code": "carrollton",
+            "aspect_ratio": 1.6348773841961852
+          },
+          {
+            "code": "corpus_christi",
+            "aspect_ratio": 1.4976958525345623
+          },
+          {
+            "code": "dallas",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "denison",
+            "aspect_ratio": 1.6690476190476191
+          },
+          {
+            "code": "el_paso",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "houston",
+            "aspect_ratio": 1.5009380863039399
+          },
+          {
+            "code": "irving",
+            "aspect_ratio": 2
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "um",
+        "sub_regions": [],
+        "aspect_ratio": 1.9
+      },
+      {
+        "code": "ut",
+        "sub_regions": [
+          {
+            "code": "provo",
+            "aspect_ratio": 1.7314814814814814
+          }
+        ],
+        "aspect_ratio": 1.6617466174661746
+      },
+      {
+        "code": "va",
+        "sub_regions": [
+          {
+            "code": "hampton_roads",
+            "aspect_ratio": 1.6666666666666667
+          },
+          {
+            "code": "richmond",
+            "aspect_ratio": 1.6666666666666667
+          }
+        ],
+        "aspect_ratio": 1.459521094640821
+      },
+      {
+        "code": "vi",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "vt",
+        "sub_regions": [],
+        "aspect_ratio": 1.6666666666666667
+      },
+      {
+        "code": "wa",
+        "sub_regions": [],
+        "aspect_ratio": 1.6808510638297873
+      },
+      {
+        "code": "wi",
+        "sub_regions": [
+          {
+            "code": "madison",
+            "aspect_ratio": 1.5
+          },
+          {
+            "code": "milwaukee",
+            "aspect_ratio": 1.4534883720930232
+          }
+        ],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "wv",
+        "sub_regions": [],
+        "aspect_ratio": 1.9
+      },
+      {
+        "code": "wy",
+        "sub_regions": [],
+        "aspect_ratio": 1.4285714285714286
+      }
+    ],
+    "aspect_ratio": 1.9
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "uz",
+    "name": "Uzbekistan",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "va",
+    "name": "Holy See",
+    "regions": [],
+    "aspect_ratio": 1
+  },
+  {
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "vg",
+    "name": "Virgin Islands (British)",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "vi",
+    "name": "Virgin Islands (U.S.)",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "vn",
+    "name": "Viet Nam",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "vu",
+    "name": "Vanuatu",
+    "regions": [],
+    "aspect_ratio": 1.6666666666666667
+  },
+  {
+    "code": "wf",
+    "name": "Wallis and Futuna",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "ws",
+    "name": "Samoa",
+    "regions": [],
+    "aspect_ratio": 2
+  },
+  {
+    "code": "xk",
+    "name": "Republic of Kosovo",
+    "regions": [],
+    "aspect_ratio": 1.4
+  },
+  {
+    "code": "ye",
+    "name": "Yemen",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "yt",
+    "name": "Mayotte",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "za",
+    "name": "South Africa",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "zm",
+    "name": "Zambia",
+    "regions": [],
+    "aspect_ratio": 1.5
+  },
+  {
+    "code": "zw",
+    "name": "Zimbabwe",
+    "regions": [],
+    "aspect_ratio": 2
+  }
+]
