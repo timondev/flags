@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450"><path d="M0 450h900V0H0z" fill="#d62828"/><path d="M0 450V0h600z" fill="#fcd856"/><path d="M0 450V0h300z" fill="#003f87"/><path d="M0 450h900V150z" fill="#fff"/><path d="M0 450h900V300z" fill="#007a3d"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Seychelles</cgf:name>
+  <cgf:route>sc</cgf:route>
+  <cgf:aspect-ratio>2</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path d="M0 450h900V0H0z" fill="#d62828"></path><path d="M0 450V0h600z" fill="#fcd856"></path><path d="M0 450V0h300z" fill="#003f87"></path><path d="M0 450h900V150z" fill="#fff"></path><path d="M0 450h900V300z" fill="#007a3d"></path></svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800"><path fill="#005BBB" d="M0 0h1200v800H0z"/><path fill="#FFD500" d="M0 400h1200v400H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Ukraine</cgf:name>
+  <cgf:route>ua</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#005BBB" d="M0 0h1200v800H0z"></path><path fill="#FFD500" d="M0 400h1200v400H0z"></path></svg>

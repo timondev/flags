@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350"><path d="M0 0h500v350H0" fill="#00994c"/><path d="M0 0h500L0 350" fill="#f3e718"/><path d="m75 25 29 90-77-55h96l-77 55" fill="#c00"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>br/ac</cgf:route>
+  <cgf:aspect-ratio>1.4285714285714286</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path d="M0 0h500v350H0" fill="#00994c"></path><path d="M0 0h500L0 350" fill="#f3e718"></path><path d="m75 25 29 90-77-55h96l-77 55" fill="#c00"></path></svg>

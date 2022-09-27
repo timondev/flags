@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="500" version="1.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="500" version="1.0"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Ascension Island</cgf:name>
+  <cgf:route>ac</cgf:route>
+  <cgf:aspect-ratio>2</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata>
   <defs>
     <linearGradient y2="419.005" x2="481.003" y1="416.828" x1="438.422" gradientUnits="userSpaceOnUse" id="aJ">
       <stop style="stop-color:#f1e8e6" offset=".018"></stop>

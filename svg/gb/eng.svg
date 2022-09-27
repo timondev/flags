@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 15" width="800" height="480"><path fill="#FFF" d="M0 0h25v15H0z"/><g fill="#CE1124"><path d="M11 0h3v15h-3z"/><path d="M0 6h25v3H0z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 15" width="800" height="480" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>gb/eng</cgf:route>
+  <cgf:aspect-ratio>1.6666666666666667</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#FFF" d="M0 0h25v15H0z"></path><g fill="#CE1124"><path d="M11 0h3v15h-3z"></path><path d="M0 6h25v3H0z"></path></g></svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600"><path fill="#0135ad" d="M0 0h1000v600H0z"/><g id="b"><path id="a" fill="#ffce00" d="M0 0h100v100H0z"/><use xlink:href="#a" x="200"/><use xlink:href="#a" x="400"/><use xlink:href="#a" x="600"/><use xlink:href="#a" x="800"/></g><use xlink:href="#b" x="100" y="100"/><use xlink:href="#b" y="200"/><use xlink:href="#b" x="100" y="300"/><use xlink:href="#b" y="400"/><use xlink:href="#b" x="100" y="500"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>gb/sry</cgf:route>
+  <cgf:aspect-ratio>1.6666666666666667</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#0135ad" d="M0 0h1000v600H0z"></path><g id="b"><path id="a" fill="#ffce00" d="M0 0h100v100H0z"></path><use xlink:href="#a" x="200"></use><use xlink:href="#a" x="400"></use><use xlink:href="#a" x="600"></use><use xlink:href="#a" x="800"></use></g><use xlink:href="#b" x="100" y="100"></use><use xlink:href="#b" y="200"></use><use xlink:href="#b" x="100" y="300"></use><use xlink:href="#b" y="400"></use><use xlink:href="#b" x="100" y="500"></use></svg>

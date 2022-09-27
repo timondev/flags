@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="750" height="600"><path fill="#ce1126" d="M0 0h750v300H0z"/><path fill="#fff" d="M0 300h750v300H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="600" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Monaco</cgf:name>
+  <cgf:route>mc</cgf:route>
+  <cgf:aspect-ratio>1.25</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#ce1126" d="M0 0h750v300H0z"></path><path fill="#fff" d="M0 300h750v300H0z"></path></svg>

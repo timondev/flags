@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><path fill="#3a75c4" d="M0 0h400v300H0z"/><path fill="#fcd116" d="M0 0h400v200H0z"/><path fill="#009e60" d="M0 0h400v100H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Gabon</cgf:name>
+  <cgf:route>ga</cgf:route>
+  <cgf:aspect-ratio>1.3333333333333333</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#3a75c4" d="M0 0h400v300H0z"></path><path fill="#fcd116" d="M0 0h400v200H0z"></path><path fill="#009e60" d="M0 0h400v100H0z"></path></svg>

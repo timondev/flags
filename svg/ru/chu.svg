@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 324 216"><path fill="#0039a6" d="M0 0h324v216H0z"/><path d="M0 0v216l187-108z" fill="#fff"/><path d="M32 78h60v60H32z" fill="#d52b1e"/><path d="M32 78h60v39H32z" fill="#0039a6"/><path d="M32 78h60v21H32z" fill="#fff"/><circle cx="62" cy="108" r="36" fill="none" stroke="gold" stroke-width="18"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 324 216" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>ru/chu</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#0039a6" d="M0 0h324v216H0z"></path><path d="M0 0v216l187-108z" fill="#fff"></path><path d="M32 78h60v60H32z" fill="#d52b1e"></path><path d="M32 78h60v39H32z" fill="#0039a6"></path><path d="M32 78h60v21H32z" fill="#fff"></path><circle cx="62" cy="108" r="36" fill="none" stroke="gold" stroke-width="18"></circle></svg>

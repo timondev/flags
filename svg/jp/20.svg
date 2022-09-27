@@ -1,1 +1,9 @@
-<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg"><path fill="#f66637" d="M0 0h900v600H0z"/><circle cx="300" cy="300" r="250" fill="#fff"/><circle cx="150" cy="300" r="275" fill="none" stroke="#f66637" stroke-width="50"/><path stroke="#f66637" stroke-width="50" d="M0 300h600"/></svg>
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>jp/20</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#f66637" d="M0 0h900v600H0z"></path><circle cx="300" cy="300" r="250" fill="#fff"></circle><circle cx="150" cy="300" r="275" fill="none" stroke="#f66637" stroke-width="50"></circle><path stroke="#f66637" stroke-width="50" d="M0 300h600"></path></svg>

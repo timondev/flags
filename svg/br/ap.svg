@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="700" width="1000" version="1"><path fill="#fff" d="M0 0h1000v700H0z"/><g fill-rule="evenodd"><path d="m0 0 250 250h750v200H250L0 700V0z" fill="#00994c"/><path d="M1000 200H270.71L70.71 0H1000v200z" fill="#002580"/><path d="m70.71 700 200-200H1000v200H70.71z" fill="#f3e718"/><path d="m0 0 250 250h750v-17H257.042l-233-233H0zm0 700 250-250h750v17H257.042l-233 233H0z"/><path d="m46.669 0 217 217H1000v-17H270.71L70.71 0H46.67zm0 700 217-217H1000v17H270.71l-200 200H46.67z"/></g><g fill-rule="evenodd"><path d="m152 398-6 12 18 24 18-24-6-12 36-36 12 6 24-18-24-18-12 6-36-36 6-12-18-24-18 24 6 12-36 36-12-6-24 18 24 18 12.6-6 35.4 36z" fill="#fff" stroke="#000" stroke-width="5"/><path d="m164 386 36-36-36-36-36 36 36 36z" stroke-width="5" stroke="#000" fill="#038301"/><path d="m116 350-12-6-8 6 8 6 12-6zm96 0 12-6 8 6-8 6-12-6zm-48-48 6-12-6-8-6 8 6 12zm0 96 6 12-6 8-6-8 6-12z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="700" width="1000" version="1" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>br/ap</cgf:route>
+  <cgf:aspect-ratio>1.4285714285714286</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h1000v700H0z"></path><g fill-rule="evenodd"><path d="m0 0 250 250h750v200H250L0 700V0z" fill="#00994c"></path><path d="M1000 200H270.71L70.71 0H1000v200z" fill="#002580"></path><path d="m70.71 700 200-200H1000v200H70.71z" fill="#f3e718"></path><path d="m0 0 250 250h750v-17H257.042l-233-233H0zm0 700 250-250h750v17H257.042l-233 233H0z"></path><path d="m46.669 0 217 217H1000v-17H270.71L70.71 0H46.67zm0 700 217-217H1000v17H270.71l-200 200H46.67z"></path></g><g fill-rule="evenodd"><path d="m152 398-6 12 18 24 18-24-6-12 36-36 12 6 24-18-24-18-12 6-36-36 6-12-18-24-18 24 6 12-36 36-12-6-24 18 24 18 12.6-6 35.4 36z" fill="#fff" stroke="#000" stroke-width="5"></path><path d="m164 386 36-36-36-36-36 36 36 36z" stroke-width="5" stroke="#000" fill="#038301"></path><path d="m116 350-12-6-8 6 8 6 12-6zm96 0 12-6 8 6-8 6-12-6zm-48-48 6-12-6-8-6 8 6 12zm0 96 6 12-6 8-6-8 6-12z"></path></g></svg>

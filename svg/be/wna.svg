@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><path d="M0 0h150v200H0z"/><path fill="#cb322c" d="M150 0h150v200H150z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>be/wna</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path d="M0 0h150v200H0z"></path><path fill="#cb322c" d="M150 0h150v200H150z"></path></svg>

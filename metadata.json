@@ -64,11 +64,124 @@
     "name": "Argentina",
     "regions": [
       {
+        "code": "a",
+        "sub_regions": [],
+        "aspect_ratio": 1.41
+      },
+      {
+        "code": "b",
+        "sub_regions": [],
+        "aspect_ratio": 1.5555555555555556
+      },
+      {
         "code": "c",
-        "parent_code": "ar",
-        "path": "ar/c",
         "sub_regions": [],
         "aspect_ratio": 1.544392523364486
+      },
+      {
+        "code": "d",
+        "sub_regions": [],
+        "aspect_ratio": 1.5047619047619047
+      },
+      {
+        "code": "e",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "f",
+        "sub_regions": [],
+        "aspect_ratio": 1.5555555555555556
+      },
+      {
+        "code": "g",
+        "sub_regions": [],
+        "aspect_ratio": 2.5
+      },
+      {
+        "code": "h",
+        "sub_regions": [],
+        "aspect_ratio": 1.5041322314049588
+      },
+      {
+        "code": "j",
+        "sub_regions": [],
+        "aspect_ratio": 1.5546218487394958
+      },
+      {
+        "code": "k",
+        "sub_regions": [],
+        "aspect_ratio": 1.832214765100671
+      },
+      {
+        "code": "l",
+        "sub_regions": [],
+        "aspect_ratio": 1.5544444444444445
+      },
+      {
+        "code": "m",
+        "sub_regions": [],
+        "aspect_ratio": 0.8472222222222222
+      },
+      {
+        "code": "n",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "p",
+        "sub_regions": [],
+        "aspect_ratio": 1.8333333333333333
+      },
+      {
+        "code": "q",
+        "sub_regions": [],
+        "aspect_ratio": 1.2533081285444234
+      },
+      {
+        "code": "r",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "s",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "t",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "u",
+        "sub_regions": [],
+        "aspect_ratio": 2
+      },
+      {
+        "code": "v",
+        "sub_regions": [],
+        "aspect_ratio": 1.4814814814814814
+      },
+      {
+        "code": "w",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "x",
+        "sub_regions": [],
+        "aspect_ratio": 1.5
+      },
+      {
+        "code": "y",
+        "sub_regions": [],
+        "aspect_ratio": 1
+      },
+      {
+        "code": "z",
+        "sub_regions": [],
+        "aspect_ratio": 1.5188866799204772
       }
     ],
     "aspect_ratio": 1.6
@@ -3777,7 +3890,7 @@
           },
           {
             "code": "phoenix",
-            "aspect_ratio": 1.6666666666666667
+            "aspect_ratio": 1.6721311475409837
           }
         ],
         "aspect_ratio": 1.5

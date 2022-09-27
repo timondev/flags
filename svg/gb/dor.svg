@@ -1,1 +1,9 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="424" height="254"><path fill="#f8d80e" d="M0 0h424v254H0z"/><path d="M212 0v254M0 127h424" stroke="#d0071c" stroke-width="64"/><path d="M212 0v254M0 127h424" stroke="#fff" stroke-width="42"/></svg>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="424" height="254" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>gb/dor</cgf:route>
+  <cgf:aspect-ratio>1.669291338582677</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#f8d80e" d="M0 0h424v254H0z"></path><path d="M212 0v254M0 127h424" stroke="#d0071c" stroke-width="64"></path><path d="M212 0v254M0 127h424" stroke="#fff" stroke-width="42"></path></svg>

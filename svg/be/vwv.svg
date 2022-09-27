@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="324" height="216"><path fill="#ff0" d="M0 0h324v216H0z"/><g fill="#00f"><path d="M162 0v216h90L72 0z"/><path d="M0 108h324v72L0 36z"/><path d="M0 180v36h72L252 0h72v36z"/></g><path fill="red" d="M197 66v42c0 26-15 42-35 42s-35-16-35-42V66z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="216" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>be/vwv</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#ff0" d="M0 0h324v216H0z"></path><g fill="#00f"><path d="M162 0v216h90L72 0z"></path><path d="M0 108h324v72L0 36z"></path><path d="M0 180v36h72L252 0h72v36z"></path></g><path fill="red" d="M197 66v42c0 26-15 42-35 42s-35-16-35-42V66z"></path></svg>

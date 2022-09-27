@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400"><path fill="#fff" d="M0 0h600v400H0z"/><path d="M600 400H0L600 0z" fill="#012a87"/><path d="M0 0v166.667L250 0z" fill="#f9d90f"/><circle cx="165" cy="173" r="80" fill="none" stroke="#000" stroke-width="11"/><g id="b"><path d="m165 69.834 15 25.981h-30z" id="a"/><use xlink:href="#a" transform="rotate(180 165 173)"/></g><use xlink:href="#b" transform="rotate(90 165 173)"/><path d="m165 122 44.167 76.5h-88.334z" fill="#dc171d" id="c"/><use xlink:href="#c" transform="rotate(60 165 173)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>nl/bq1</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h600v400H0z"></path><path d="M600 400H0L600 0z" fill="#012a87"></path><path d="M0 0v166.667L250 0z" fill="#f9d90f"></path><circle cx="165" cy="173" r="80" fill="none" stroke="#000" stroke-width="11"></circle><g id="b"><path d="m165 69.834 15 25.981h-30z" id="a"></path><use xlink:href="#a" transform="rotate(180 165 173)"></use></g><use xlink:href="#b" transform="rotate(90 165 173)"></use><path d="m165 122 44.167 76.5h-88.334z" fill="#dc171d" id="c"></path><use xlink:href="#c" transform="rotate(60 165 173)"></use></svg>

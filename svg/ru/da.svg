@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 9 6"><path fill="#D81E05" d="M0 0h9v6H0z"/><path fill="#379BFF" d="M0 0h9v4H0z"/><path fill="#00923F" d="M0 0h9v2H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 9 6" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>ru/da</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#D81E05" d="M0 0h9v6H0z"></path><path fill="#379BFF" d="M0 0h9v4H0z"></path><path fill="#00923F" d="M0 0h9v2H0z"></path></svg>

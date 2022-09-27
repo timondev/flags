@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 18 12"><path fill="#fff" d="M0 0h18v12H0z"/><path fill="#d00c33" d="M0 6h18v6H0zm3 0a4 4 0 0 0 8 0 4 4 0 0 0-8 0"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 18 12" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Greenland</cgf:name>
+  <cgf:route>gl</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h18v12H0z"></path><path fill="#d00c33" d="M0 6h18v6H0zm3 0a4 4 0 0 0 8 0 4 4 0 0 0-8 0"></path></svg>

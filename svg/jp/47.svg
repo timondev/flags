@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="700"><path fill="#fff" d="M0 0h1050v700H0z"/><circle cx="525" cy="350" r="250" fill="#c8003e"/><circle cx="525" cy="300" r="175" fill="#fff"/><circle cx="525" cy="262.5" r="112.5" fill="#c8003e"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="700" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>jp/47</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h1050v700H0z"></path><circle cx="525" cy="350" r="250" fill="#c8003e"></circle><circle cx="525" cy="300" r="175" fill="#fff"></circle><circle cx="525" cy="262.5" r="112.5" fill="#c8003e"></circle></svg>

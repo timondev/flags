@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600"><path fill="#F2A800" d="M0 0h1200v600H0z"/><path fill="#0033A0" d="M0 0h1200v400H0z"/><path fill="#D90012" d="M0 0h1200v200H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Armenia</cgf:name>
+  <cgf:route>am</cgf:route>
+  <cgf:aspect-ratio>2</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#F2A800" d="M0 0h1200v600H0z"></path><path fill="#0033A0" d="M0 0h1200v400H0z"></path><path fill="#D90012" d="M0 0h1200v200H0z"></path></svg>

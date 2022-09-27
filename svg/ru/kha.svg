@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="324" height="216"><path fill="#fff" d="M0 0h324v108H0z"/><path fill="#09f" d="M0 108h324v108H0z"/><path fill="green" d="M0 0v216l108-108z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="216" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>ru/kha</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h324v108H0z"></path><path fill="#09f" d="M0 108h324v108H0z"></path><path fill="green" d="M0 0v216l108-108z"></path></svg>

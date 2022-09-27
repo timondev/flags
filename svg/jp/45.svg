@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1" width="1400" height="1000"><path fill="#159939" d="M0 0h1400v1000H0z"/><path d="m194 375 140-190h390L585 390h380L825.4 595h402.1L1099 770H695.5L825 580H445l140-205H194z" fill="#ffff01"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1" width="1400" height="1000" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>jp/45</cgf:route>
+  <cgf:aspect-ratio>1.4</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#159939" d="M0 0h1400v1000H0z"></path><path d="m194 375 140-190h390L585 390h380L825.4 595h402.1L1099 770H695.5L825 580H445l140-205H194z" fill="#ffff01"></path></svg>

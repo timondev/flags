@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 96 48"><g fill="#c10000"><path d="M0 0h96v48H0z"/><path fill="#fff" d="M0 0h40v24H0z"/><path d="M17 3h6v18h-6z"/><path d="M11 9h18v6H11z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 96 48" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Tonga</cgf:name>
+  <cgf:route>to</cgf:route>
+  <cgf:aspect-ratio>2</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g fill="#c10000"><path d="M0 0h96v48H0z"></path><path fill="#fff" d="M0 0h40v24H0z"></path><path d="M17 3h6v18h-6z"></path><path d="M11 9h18v6H11z"></path></g></svg>

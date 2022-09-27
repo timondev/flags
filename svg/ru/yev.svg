@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240"><path fill="#fff" d="M0 0h360v240H0z"/><g stroke-width="6"><path d="M0 96h360" stroke="red"/><path d="M0 104h360" stroke="#f90"/><path d="M0 112h360" stroke="#fc0"/><path d="M0 120h360" stroke="#6c3"/><path d="M0 128h360" stroke="#39f"/><path d="M0 136h360" stroke="#00c"/><path d="M0 144h360" stroke="#609"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>ru/yev</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#fff" d="M0 0h360v240H0z"></path><g stroke-width="6"><path d="M0 96h360" stroke="red"></path><path d="M0 104h360" stroke="#f90"></path><path d="M0 112h360" stroke="#fc0"></path><path d="M0 120h360" stroke="#6c3"></path><path d="M0 128h360" stroke="#39f"></path><path d="M0 136h360" stroke="#00c"></path><path d="M0 144h360" stroke="#609"></path></g></svg>

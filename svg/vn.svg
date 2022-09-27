@@ -1,1 +1,9 @@
-<svg width="900" height="600" viewBox="-15 -10 30 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path fill="#da251d" d="M-20-15h40v30h-40z"/><g id="b" transform="translate(0 -6)"><path id="a" fill="#ff0" transform="rotate(18)" d="M0 0v6h4"/><use xlink:href="#a" transform="scale(-1 1)"/></g><g id="c" transform="rotate(72)"><use xlink:href="#b"/><use xlink:href="#b" transform="rotate(72)"/></g><use xlink:href="#c" transform="scale(-1 1)"/></svg>
+<svg width="900" height="600" viewBox="-15 -10 30 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Viet Nam</cgf:name>
+  <cgf:route>vn</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#da251d" d="M-20-15h40v30h-40z"></path><g id="b" transform="translate(0 -6)"><path id="a" fill="#ff0" transform="rotate(18)" d="M0 0v6h4"></path><use xlink:href="#a" transform="scale(-1 1)"></use></g><g id="c" transform="rotate(72)"><use xlink:href="#b"></use><use xlink:href="#b" transform="rotate(72)"></use></g><use xlink:href="#c" transform="scale(-1 1)"></use></svg>

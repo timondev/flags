@@ -1,1 +1,9 @@
-<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg"><path fill="#FFF" d="M0 0h500v125H0z"/><path fill="#E10000" d="M0 125h500v125H0z"/></svg>
+<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name></cgf:name>
+  <cgf:route>de/th</cgf:route>
+  <cgf:aspect-ratio>2</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#FFF" d="M0 0h500v125H0z"></path><path fill="#E10000" d="M0 125h500v125H0z"></path></svg>

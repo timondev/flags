@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="390"><path fill="#ED2939" d="M0 0h450v390H0z"/><path fill="#FAE042" d="M0 0h300v390H0z"/><path d="M0 0h150v390H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="390" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Belgium</cgf:name>
+  <cgf:route>be</cgf:route>
+  <cgf:aspect-ratio>1.1538461538461537</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><path fill="#ED2939" d="M0 0h450v390H0z"></path><path fill="#FAE042" d="M0 0h300v390H0z"></path><path d="M0 0h150v390H0z"></path></svg>
