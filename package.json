@@ -15,7 +15,7 @@
     "url": "https://github.com/RudeySH/flags/issues"
   },
   "homepage": "https://github.com/RudeySH/flags#readme",
-  "devDependencies": {
-    "svgo": "^2.3.0"
+  "dependencies": {
+    "jsdom": "^20.0.0"
   }
 }

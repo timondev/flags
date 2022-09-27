@@ -65,6 +65,8 @@
     "regions": [
       {
         "code": "c",
+        "parent_code": "ar",
+        "path": "ar/c",
         "sub_regions": [],
         "aspect_ratio": 1.544392523364486
       }
